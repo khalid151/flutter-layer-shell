@@ -6,6 +6,5 @@
 // https://github.com/flutter/flutter/issues/88724 for current limitations
 // in the unit-testable API.
 
-// Handles the getPlatformVersion method call.
 void update_layer_size(GtkWindow *window, int size);
 void update_layer_position(GtkWindow *window, int edge);

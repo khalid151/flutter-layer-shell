@@ -1,7 +1,7 @@
 name: flutter_layer_shell
-description: "A new Flutter plugin project."
+description: "A bare-bones plugin to help creating wayland bars with gtk-layer-shell."
 version: 0.0.1
-homepage:
+homepage: https://github.com/khalid151/flutter-layer-shell/
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
